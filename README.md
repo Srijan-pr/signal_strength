@@ -1,1 +1,1 @@
-# signal_strengt
+# signal_strength
